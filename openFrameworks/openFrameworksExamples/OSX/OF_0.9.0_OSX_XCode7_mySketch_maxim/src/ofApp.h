@@ -36,7 +36,7 @@ class ofApp : public ofBaseApp{
      
      
      */
-    
+    double	wave;
     int		bufferSize; /* buffer size */
     int		sampleRate;
 		
